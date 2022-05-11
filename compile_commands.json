@@ -1,0 +1,56 @@
+[
+    {
+        "arguments": [
+            "/usr/bin/cc",
+            "-c",
+            "-o",
+            "CMakeFiles/cmTC_5229b.dir/CheckForPthreads.c.o",
+            "../../../../../../../../usr/share/cmake-3.16/Modules/CheckForPthreads.c"
+        ],
+        "directory": "/home/dave/Development/Pegasus/Development/Chrysaor/CMakeFiles/CMakeTmp",
+        "file": "../../../../../../../../usr/share/cmake-3.16/Modules/CheckForPthreads.c"
+    },
+    {
+        "arguments": [
+            "/usr/bin/cc",
+            "-c",
+            "CMakeCCompilerId.c"
+        ],
+        "directory": "/home/dave/Development/Pegasus/Development/Chrysaor/CMakeFiles/3.16.3/CompilerIdC",
+        "file": "CMakeCCompilerId.c"
+    },
+    {
+        "arguments": [
+            "/usr/bin/cc",
+            "-c",
+            "-v",
+            "-o",
+            "CMakeFiles/cmTC_d5168.dir/CMakeCCompilerABI.c.o",
+            "../../../../../../../../usr/share/cmake-3.16/Modules/CMakeCCompilerABI.c"
+        ],
+        "directory": "/home/dave/Development/Pegasus/Development/Chrysaor/CMakeFiles/CMakeTmp",
+        "file": "../../../../../../../../usr/share/cmake-3.16/Modules/CMakeCCompilerABI.c"
+    },
+    {
+        "arguments": [
+            "/usr/bin/c++",
+            "-c",
+            "CMakeCXXCompilerId.cpp"
+        ],
+        "directory": "/home/dave/Development/Pegasus/Development/Chrysaor/CMakeFiles/3.16.3/CompilerIdCXX",
+        "file": "CMakeCXXCompilerId.cpp"
+    },
+    {
+        "arguments": [
+            "/usr/bin/c++",
+            "-c",
+            "-v",
+            "-std=gnu++2a",
+            "-o",
+            "CMakeFiles/cmTC_21321.dir/CMakeCXXCompilerABI.cpp.o",
+            "../../../../../../../../usr/share/cmake-3.16/Modules/CMakeCXXCompilerABI.cpp"
+        ],
+        "directory": "/home/dave/Development/Pegasus/Development/Chrysaor/CMakeFiles/CMakeTmp",
+        "file": "../../../../../../../../usr/share/cmake-3.16/Modules/CMakeCXXCompilerABI.cpp"
+    }
+]

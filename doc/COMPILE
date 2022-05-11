@@ -1,0 +1,29 @@
+CMake-SDL2-OpenGL-Imgui Example
+
+Linux Instructions (Ubuntu 20:04 LTS):
+
+Ensure the following packages/third-party libraries from the Standard and
+Universe Repositories are also installed:
+
+- libopengl-dev (1.3.2-1~ubuntu0.20.04.2+)
+- libglm-dev (0.9.9.7+ds-1+).
+- libglew-dev (2.1.0-4+)
+- libsdl2-dev (2.0.10+dfsg1-3+)
+
+Then make sure the following header libraries are included and linked (the
+default location to install them are in subdirectories in the inc folder):
+
+- imgui https://github.com/ocornut/imgui/
+
+Load into VSCode and use the CMakeTools to run CMake/Build or CMake/Run tasks
+
+Additional support tools useful for development:
+
+- Build EAR https://github.com/rizsotto/Bear
+
+Note that to compile  requires a compiler with C++20 support such as
+gcc 10.3.
+
+Windows Instructions:
+
+Dunno

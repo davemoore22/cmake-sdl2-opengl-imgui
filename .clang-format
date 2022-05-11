@@ -1,0 +1,16 @@
+Language: Cpp
+# EmptyLineBeforeAccessModifier: Always
+# IndentAccessModifiers: true
+BasedOnStyle: LLVM
+NamespaceIndentation: All
+IndentWidth: 4
+UseTab: Always
+TabWidth: 4
+ReflowComments: true
+ColumnLimit: 80
+AllowShortFunctionsOnASingleLine: Empty
+ConstructorInitializerIndentWidth: 4
+AlignAfterOpenBracket: DontAlign
+AllowShortLambdasOnASingleLine: None
+AlwaysBreakBeforeMultilineStrings: true
+#AllowShortEnumsOnASingleLine: False
